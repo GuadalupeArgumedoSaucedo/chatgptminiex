@@ -1,0 +1,2 @@
+# chatgptminiex
+ ex
